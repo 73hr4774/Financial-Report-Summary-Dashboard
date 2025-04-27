@@ -1,4 +1,5 @@
 📊 Dashboard Overview
+
 This Power BI Dashboard provides a comprehensive financial analysis, showcasing key sales, profit, and performance metrics across different products, segments, and regions. The interactive visualizations help stakeholders quickly assess business performance and make data-driven decisions.
 
 🔍 Key Metrics & Visualizations
